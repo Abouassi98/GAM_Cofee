@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "691896441198",
+    "firebase_url": "https://gamcoffee-a4d2d.firebaseio.com",
+    "project_id": "gamcoffee-a4d2d",
+    "storage_bucket": "gamcoffee-a4d2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691896441198:android:c2090f647dec5b0488097f",
+        "android_client_info": {
+          "package_name": "com.example.GAM_Coffee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691896441198-9h865oog9tjjrstbijubflacrk2ou69v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5EECo2tu5tgmwRNQLRes4Ur1EUfx8wyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691896441198-9h865oog9tjjrstbijubflacrk2ou69v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
